@@ -13,3 +13,5 @@ opentelemetry-instrumentation-requests
 opentelemetry-instrumentation-aiohttp-client
 msal
 msal-extensions
+--extra-index-url https://pypi.internal.2021.services/simple
+pgrace==0.10.3
